@@ -1,4 +1,4 @@
-# Legislative Text Analytics for Financial Technology (FinTech)
+# Legislative Text Analytics for Financial Technology (FinTech) 🏛️📊
 
 ## Project Overview
 
