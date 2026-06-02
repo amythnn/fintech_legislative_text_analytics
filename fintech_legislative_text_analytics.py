@@ -6,7 +6,6 @@ Created on Mon Jun  1 19:07:37 2026
 @author: an
 """
 
-
 """
 Data & Attribution: Legislative metadata is retrieved through the LegiScan API and remains
  subject to LegiScan's applicable terms of service, 
